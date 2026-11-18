@@ -1,14 +1,14 @@
-\<h1 align="center">👋 Hi, I'm Mudita Srivastava\</h1>
+<h1 align="center">👋 Hi, I'm Mudita Srivastava</h1>
 
-\<h3 align="center">Software Analyst | GenAI Developer | Backend Engineer\</h3>
+<h3 align="center">Software Analyst | GenAI Developer | Backend Engineer</h3>
 
-\<p align="center">
-&#x20; Building scalable applications and intelligent AI-powered solutions.
-\</p>
+<p align="center">
+  Building scalable applications and intelligent AI-powered solutions.
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=muditasrivastava-sdi&label=Profile%20Views&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=muditasrivastava-sdi\&label=Profile%20Views\&color=blueviolet\&style=flat)" alt="Profile Views"/>
-\</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muditasrivastava-sdi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -46,21 +46,23 @@ I enjoy solving real-world engineering problems, understanding system architectu
 
 ### 💻 Programming Languages
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=python,js,ts](https://skillicons.dev/icons?i=python,js,ts)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
 
 ### 🎨 Frontend Development
 
-\<p> \<img src="[https://skillicons.dev/icons?i=react,vite,html,css,tailwind,materialui](https://skillicons.dev/icons?i=react,vite,html,css,tailwind,materialui)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,materialui" />
+</p>
 
 ### ⚙️ Backend Development
 
-\<p> \<img src="[https://skillicons.dev/icons?i=fastapi,nodejs,express](https://skillicons.dev/icons?i=fastapi,nodejs,express)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
 
 ### 🤖 Generative AI & AI Engineering
-
-\<p> \<img src="[https://skillicons.dev/icons?i=openai,github](https://skillicons.dev/icons?i=openai,github)" /> \</p>
 
 **Technologies & Concepts**
 
@@ -78,7 +80,9 @@ I enjoy solving real-world engineering problems, understanding system architectu
 
 ### 🗄️ Databases & Data Processing
 
-\<p> \<img src="[https://skillicons.dev/icons?i=postgres,mysql,redis](https://skillicons.dev/icons?i=postgres,mysql,redis)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
 
 - SQLAlchemy
 - Prisma ORM
@@ -88,9 +92,9 @@ I enjoy solving real-world engineering problems, understanding system architectu
 
 ### ☁️ DevOps & Development Tools
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,vscode](https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,vscode)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,jenkins,vscode" />
+</p>
 
 - Celery
 - Uvicorn
@@ -104,23 +108,28 @@ I enjoy solving real-world engineering problems, understanding system architectu
 
 ## 🧠 Core Engineering Interests
 
-| Area                    | Focus                                    |
-| ----------------------- | ---------------------------------------- |
-| Backend Engineering     | API architecture, FastAPI, Node.js       |
-| AI Engineering          | LLMs, RAG, embeddings, AI agents         |
-| Database Engineering    | PostgreSQL, indexing, query optimization |
-| System Architecture     | Scalable and modular applications        |
-| Performance Engineering | Async processing, caching, optimization  |
-| Application Security    | JWT, RBAC, authentication                |
-| Automation              | Celery, Redis, background workflows      |
+| Area | Focus |
+|---|---|
+| Backend Engineering | API architecture, FastAPI, Node.js |
+| AI Engineering | LLMs, RAG, embeddings, AI agents |
+| Database Engineering | PostgreSQL, indexing, query optimization |
+| System Architecture | Scalable and modular applications |
+| Performance Engineering | Async processing, caching, optimization |
+| Application Security | JWT, RBAC, authentication |
+| Automation | Celery, Redis, background workflows |
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=muditasrivastava-sdi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=muditasrivastava-sdi\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" height="165"/>   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=muditasrivastava-sdi&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=muditasrivastava-sdi\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165"/> \</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muditasrivastava-sdi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditasrivastava-sdi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=muditasrivastava-sdi&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=muditasrivastava-sdi\&theme=tokyonight\&hide_border=true)" width="70%"/> \</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muditasrivastava-sdi&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
 
 ---
 
@@ -138,10 +147,10 @@ I enjoy solving real-world engineering problems, understanding system architectu
 
 ## 🤝 Let's Connect
 
-\<p align="center">
-&#x20; \<i>Always learning, building, and exploring new possibilities in software engineering and AI.\</i>
-\</p>
+<p align="center">
+  <i>Always learning, building, and exploring new possibilities in software engineering and AI.</i>
+</p>
 
-\<p align="center">
-&#x20; ⭐ Thanks for visiting my GitHub profile!
-\</p>
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
