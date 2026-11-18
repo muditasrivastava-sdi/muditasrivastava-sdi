@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mudita Srivastava</h1>
 
-<h3 align="center">Software Analyst | GenAI Developer | Backend Engineer</h3>
+<h3 align="center">Software Analyst | Frontend Engineer| GenAI Developer | Backend Engineer </h3>
 
 <p align="center">
   Building scalable applications and intelligent AI-powered solutions.
